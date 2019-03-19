@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://mangalist.github.io"
-baseurl: "mangalist"
+baseurl: "https://mangalist.github.io"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -30,11 +30,17 @@ navbar-links:
     - Yaoi/BL: "yaoi"
     - Yuri: "yuri"
   Publisher:
-    - Media Do: "mediado"
-    - Seven Seas: "sevenseas"
+    - Cross Infinite World: "crossinfworld"
+    - Denpa: "denpa"
     - Dark Horse: "darkhorse"
-    - Yen Press: "yenpress"
+    - J-Novel Club: "jnovel"
+    - Kodansha: "kodansha"
+    - Media Do: "mediado"
+    - One Peace: "onepeace"
+    - Seven Seas: "sevenseas"
+    - Sol Press: "solpress"
     - Viz: "viz"
+    - Yen Press: "yenpress"
   Type:
     - Manga: "manga"
     - Light Novel: "ranobe"
