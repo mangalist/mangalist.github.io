@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://mangalist.github.io"
-baseurl: ""
+baseurl: "mangalist"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -24,20 +24,21 @@ description: manga and light novels on digital
 # List of links in the navigation bar
 navbar-links:
 #  About Me: "aboutme"
-  Genres:
+  Genre:
     - Shoujo: "shoujo"
     - Shounen: "shounen"
     - Yaoi/BL: "yaoi"
     - Yuri: "yuri"
-  Publishers:
+  Publisher:
     - Media Do: "mediado"
     - Seven Seas: "sevenseas"
     - Dark Horse: "darkhorse"
     - Yen Press: "yenpress"
-    - Viz:
-      - Shojo Beat: "shojobeat"
-      - Shonen Jump: "shonenjump"
-      - Viz Signature: "vizsig"
+    - Viz: "viz"
+  Type:
+    - Manga: "manga"
+    - Light Novel: "ranobe"
+    - Artbook/Etc: "etc"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -165,7 +166,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Singapore"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
