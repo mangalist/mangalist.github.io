@@ -7,26 +7,26 @@ subtitle: publisher
 |Title | Author |  #  | Status | Price |
 |-|-|:-:|:-:|:-:|
 |---
-| ###Manga
-| Gleam | Aya Shirosaki | 1 | ongoing | 8.99 |
-| Little Hero | Wakasa | 1 | ongoing | 8.99 |
-| Tia La Cherla | Yun Amano | 1 | ongoing | 8.99 |
-| Yusen Ruten | Shino Shirosakura | 1 | ongoing | 8.99 |
+| **Manga** | **M** | **M** | **M** | **M** |
+| _Gleam_ | Aya Shirosaki | 1 | ongoing | 8.99 |
+| _Little Hero_ | Wakasa | 1 | ongoing | 8.99 |
+| _Tia La Cherla_ | Yun Amano | 1 | ongoing | 8.99 |
+| _Yusen Ruten_ | Shino Shirosakura | 1 | ongoing | 8.99 |
 |---
-| ###Light Novel
-| Akaoni: Contract with a Vampire | Hiroro | 1 | complete | 8.99 |
-| Beast† Blood | Sato Fumino | 1 | complete | 8.99 |
-| Dawn of the Mapmaker | Akira Nashiki | 1 | complete | 7.99 |
-| emeth: Island of Golems | Souki Tsukishima & Tora Tsukishima | 1 | complete | 8.99 |
-| I Became the Secretary of a Hero! | Tsukasa Yamazaki | 1 | complete | 8.99 |
-| Little Princess in Fairy Forest | Tsubaki Tokino | 1 | complete | 7.99 |
-| Mia and the Forbidden Medicine Report | Fumi Yamamoto | 1 | complete | 7.99 |
-| My Favorite Song ~The Silver Siren~ | Kairi Aragusuku | 1 | complete | 8.99 |
-| Obsessions of an Otome Gamer | Natsu | 1 | ongoing | 8.99 |
-| The Champions of Justice and the Supreme Ruler of Evil | Kaede Kikyou | 1 | complete | 8.99 |
-| The Cursed Princess and the Lucky Knight | Uta Narusawa | 1 | complete | 7.99 |
-| The Eccentric Master and the Fake Lover | Roka Sayuki | 1 | complete | 7.99 |
-| The Violet Knight | Yohna | 2 | ongoing | 4.99/7.49 |
+| **Light Novel** | **LN**| **LN** | **LN** | **LN** |
+| _Akaoni: Contract with a Vampire_ | Hiroro | 1 | complete | 8.99 |
+| _Beast† Blood_ | Sato Fumino | 1 | complete | 8.99 |
+| _Dawn of the Mapmaker_ | Akira Nashiki | 1 | complete | 7.99 |
+| _emeth: Island of Golems_ | Souki Tsukishima & Tora Tsukishima | 1 | complete | 8.99 |
+| _I Became the Secretary of a Hero!_ | Tsukasa Yamazaki | 1 | complete | 8.99 |
+| _Little Princess in Fairy Forest_ | Tsubaki Tokino | 1 | complete | 7.99 |
+| _Mia and the Forbidden Medicine Report_ | Fumi Yamamoto | 1 | complete | 7.99 |
+| _My Favorite Song ~The Silver Siren~_ | Kairi Aragusuku | 1 | complete | 8.99 |
+| _Obsessions of an Otome Gamer_ | Natsu | 1 | ongoing | 8.99 |
+| _The Champions of Justice and the Supreme Ruler of Evil_ | Kaede Kikyou | 1 | complete | 8.99 |
+| _The Cursed Princess and the Lucky Knight_ | Uta Narusawa | 1 | complete | 7.99 |
+| _The Eccentric Master and the Fake Lover_ | Roka Sayuki | 1 | complete | 7.99 |
+| _The Violet Knight_ | Yohna | 2 | ongoing | 4.99/7.49 |
 
 ---
 
