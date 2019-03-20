@@ -4,6 +4,7 @@ title: Cross Infinite World
 subtitle: publisher
 ---
 
+## Manga
 |              Title              |       Author      | # |  Status |
 |---------------------------------|-------------------|:-:|:-------:|
 | [Gleam](#gleam)                 | Aya Shirosaki     | 2 | ongoing |
@@ -11,6 +12,22 @@ subtitle: publisher
 | [Tia La Cherla](#tia-la-cherla) | Yun Amano         | 1 | ongoing |
 | [Yusen Ruten](#yusen-ruten)     | Shino Shirosakura | 1 | ongoing |
 
+## Light Novel
+|                          Title                           |               Author               | # |  Status  | Price     |
+|----------------------------------------------------------|------------------------------------|:-:|:--------:|:---------:|
+| [Akaoni: Contract with a Vampire](#akaoni-contract-with-a-vampire)  | Hiroro                             | 1 | complete | 8.99      |
+| [Beast† Blood](#beast-blood)  | Sato Fumino                        | 1 | complete | 8.99      |
+| [Dawn of the Mapmaker](#dawn-of-the-mapmaker)  | Akira Nashiki                      | 1 | complete | 7.99      |
+| [emeth: Island of Golems](#emeth-island-of-golems)  | Souki Tsukishima & Tora Tsukishima | 1 | complete | 8.99      |
+| [I Became the Secretary of a Hero!](#i-became-the-secretary-of-a-hero)  | Tsukasa Yamazaki                   | 1 | complete | 8.99      |
+| [Little Princess in Fairy Forest](#little-princess-in-fairy-forest)  | Tsubaki Tokino                     | 1 | complete | 7.99      |
+| [Mia and the Forbidden Medicine Report](#mia-and-the-forbidden-medicine-report)  | Fumi Yamamoto                      | 1 | complete | 7.99      |
+| [My Favorite Song –The Silver Siren–](#my-favorite-song-the-silver-siren)  | Kairi Aragusuku                    | 1 | complete | 8.99      |
+| [Obsessions of an Otome Gamer](#obsessions-of-an-otome-gamer)  | Natsu                              | 1 | ongoing  | 8.99      |
+| [The Champions of Justice and the Supreme Ruler of Evil](#the-champions-of-justice-and-the-supreme-ruler-of-evil)  | Kaede Kikyou                       | 1 | complete | 8.99      |
+| [The Cursed Princess and the Lucky Knight](#the-cursed-princess-and-the-lucky-knight)  | Uta Narusawa                       | 1 | complete | 7.99      |
+| [The Eccentric Master and the Fake Lover](#the-eccentric-master-and-the-fake-lover)  | Roka Sayuki                        | 1 | complete | 7.99      |
+| [The Violet Knight](#the-violet-knight)  | Yohna                              | 2 | ongoing  | 4.99/7.49 |
 
 ---
 
