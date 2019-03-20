@@ -33,7 +33,7 @@ subtitle: publisher
 ![](../assets/crossinfworld/akaoni-contract-with-a-vampire.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/beast-blood-light-novel.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/dawn-of-the-mapmaker.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/emeth-island-of-golems.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/i-became-the-secretary-of-a-hero.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/little-princess-in-fairy-forest.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/mia-and-the-forbidden-medicine-report.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/my-favorite-song-the-silver-siren.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/obsessions-of-an-otome-gamer.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/the-champions-of-justice-and-the-supreme-ruler-of-evil.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/the-cursed-princess-and-the-lucky-knight.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/the-eccentric-master-and-the-fake-lover.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/tia-la-cherla.jpg){: height=150 style="float:left; padding:16px"}
 
 ### Gleam
-#### Aya Shirosaki
+#### Aya Shirosaki{::options auto_ids="false" /}
 >The small kingdom of Steliol is rife with the machinations of nobles and politics. Princess Salia, the 17-year-old daughter of the king, rules the country with the people's support. She is gifted with beauty, an aptitude for politics, and has the blessing of her kingdom’s god. She even dared to invade a neighboring country to stop a war—and succeeded.
 >
 >Princess Salia is the definition of noblesse among her people, when in a sudden twist she decides to study abroad in Japan.
@@ -43,7 +43,7 @@ subtitle: publisher
 ---
 
 ### Little Hero
-#### Wakasa
+#### Wakasa{::options auto_ids="false" /}
 >One day after school fifth-grader Sawa is suddenly enveloped by a bright light, and moments later an unfamiliar landscape straight from a fantasy novel stretches out before her. With no way to return to Earth, she’s forced to accept the role of the “Dawn Hero” and save the world from being devoured by the Witch’s mist.
 >
 >Sawa quickly learns no one goes by their name in this new world—only by their role in life. From then onward, she is known only as Hero. She is accompanied by Servant, Dagger, and Lady Knight on her adventure to fulfill her role as the hero who will save the world! Will this little hero be able to live up to the role forced upon her? Will she ever return home?
@@ -51,7 +51,7 @@ subtitle: publisher
 ---
 
 ### Tia La Cherla
-#### Yun Amano
+#### Yun Amano{::options auto_ids="false" /}
 >**“This is the story of the beginning of the end…let me recount how it happened for you, my friend.”**
 >
 >In a world where humans and spirits coexist, Erda is lured by a mysterious voice away from his peaceful life in the tiny port city of Arma to a fateful encounter with a beautiful girl who has lost her memories.
@@ -63,7 +63,7 @@ subtitle: publisher
 ---
 
 ### Yusen Ruten
-#### Shino Shirosakura
+#### Shino Shirosakura{::options auto_ids="false" /}
 > Masayoshi is the heir to a once powerful clan that defied the Kamakura Bakufu and paid the greatest price of all—their lives. He is the only one to survive the retaliation of the Bakufu that had dubbed all that oppose them as Akuto. He’s taken in by an allied clan and raised to one day lead his people as they struggle to survive where starvation is a constant fear and the threat of the government pounding on their doors is always around the corner.
 >
 >Saki is the daughter of the clan head who took in Masayoshi and the woman he swore to protect since the day she shined light on his closed-off heart. Together they strive to keep their people fed and alive in a time of great suffering.
