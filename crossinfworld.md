@@ -30,6 +30,8 @@ subtitle: publisher
 
 ---
 
+![](assets/crossinfworld/akaoni-contract-with-a-vampire.jpg){: height=150 style="float:left; padding:16px"} ![](assets/crossinfworld/beast-blood-light-novel.jpg){: height=150 style="float:left; padding:16px"} ![](assets/crossinfworld/dawn-of-the-mapmaker.jpg){: height=150 style="float:left; padding:16px"} ![](assets/crossinfworld/emeth-island-of-golems.jpg){: height=150 style="float:left; padding:16px"} ![](assets/crossinfworld/i-became-the-secretary-of-a-hero.jpg){: height=150 style="float:left; padding:16px"} ![](assets/crossinfworld/little-princess-in-fairy-forest.jpg){: height=150 style="float:left; padding:16px"} ![](assets/crossinfworld/mia-and-the-forbidden-medicine-report.jpg){: height=150 style="float:left; padding:16px"} ![](assets/crossinfworld/my-favorite-song-the-silver-siren.jpg){: height=150 style="float:left; padding:16px"} ![](assets/crossinfworld/obsessions-of-an-otome-gamer.jpg){: height=150 style="float:left; padding:16px"} ![](assets/crossinfworld/the-champions-of-justice-and-the-supreme-ruler-of-evil.jpg){: height=150 style="float:left; padding:16px"} ![](assets/crossinfworld/the-cursed-princess-and-the-lucky-knight.jpg){: height=150 style="float:left; padding:16px"} ![](assets/crossinfworld/the-eccentric-master-and-the-fake-lover.jpg){: height=150 style="float:left; padding:16px"} ![](assets/crossinfworld/tia-la-cherla.jpg){: height=150 style="float:left; padding:16px"}
+
 ### Gleam
 #### Aya Shirosaki
 >The small kingdom of Steliol is rife with the machinations of nobles and politics. Princess Salia, the 17-year-old daughter of the king, rules the country with the people's support. She is gifted with beauty, an aptitude for politics, and has the blessing of her kingdom’s god. She even dared to invade a neighboring country to stop a war—and succeeded.
@@ -44,7 +46,7 @@ subtitle: publisher
 #### Wakasa
 >One day after school fifth-grader Sawa is suddenly enveloped by a bright light, and moments later an unfamiliar landscape straight from a fantasy novel stretches out before her. With no way to return to Earth, she’s forced to accept the role of the “Dawn Hero” and save the world from being devoured by the Witch’s mist.
 >
-Sawa quickly learns no one goes by their name in this new world—only by their role in life. From then onward, she is known only as Hero. She is accompanied by Servant, Dagger, and Lady Knight on her adventure to fulfill her role as the hero who will save the world! Will this little hero be able to live up to the role forced upon her? Will she ever return home?
+>Sawa quickly learns no one goes by their name in this new world—only by their role in life. From then onward, she is known only as Hero. She is accompanied by Servant, Dagger, and Lady Knight on her adventure to fulfill her role as the hero who will save the world! Will this little hero be able to live up to the role forced upon her? Will she ever return home?
 
 ---
 
