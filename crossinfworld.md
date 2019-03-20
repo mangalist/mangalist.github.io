@@ -4,12 +4,16 @@ title: Cross Infinite World
 subtitle: publisher
 ---
 
-| Title | Author |  #  | Status | Price |
-|-------|--------|:---:|:------:|:-----:|
+|Title | Author |  #  | Status | Price |
+|-|-|:-:|:-:|:-:|
+|---
+| Manga
 | Gleam | Aya Shirosaki | 1 | ongoing | 8.99 |
 | Little Hero | Wakasa | 1 | ongoing | 8.99 |
 | Tia La Cherla | Yun Amano | 1 | ongoing | 8.99 |
 | Yusen Ruten | Shino Shirosakura | 1 | ongoing | 8.99 |
+|---
+| Light Novel
 | Akaoni: Contract with a Vampire | Hiroro | 1 | complete | 8.99 |
 | Beast† Blood | Sato Fumino | 1 | complete | 8.99 |
 | Dawn of the Mapmaker | Akira Nashiki | 1 | complete | 7.99 |
