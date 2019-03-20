@@ -5,16 +5,12 @@ subtitle: publisher
 ---
 
 ## Manga
-|              Title              |       Author      | # |  Status |
-|---------------------------------|-------------------|:-:|:-------:|
-| [Gleam](#gleam)                 | Aya Shirosaki     | 2 | ongoing |
-| [Little Hero](#little-hero)     | Wakasa            | 2 | ongoing |
-| [Tia La Cherla](#tia-la-cherla) | Yun Amano         | 1 | ongoing |
-| [Yusen Ruten](#yusen-ruten)     | Shino Shirosakura | 1 | ongoing |
-
-## Light Novel
-|                          Title                           |               Author               | # |  Status  | Price     |
-|----------------------------------------------------------|------------------------------------|:-:|:--------:|:---------:|
+|              Title              |       Author      | # |  Status | Price     |
+|---------------------------------|-------------------|:-:|:-------:|:---------:|
+| [Gleam](#gleam)                 | Aya Shirosaki     | 2 | ongoing | 8.99      |
+| [Little Hero](#little-hero)     | Wakasa            | 2 | ongoing | 8.99      |
+| [Tia La Cherla](#tia-la-cherla) | Yun Amano         | 1 | ongoing | 8.99      |
+| [Yusen Ruten](#yusen-ruten)     | Shino Shirosakura | 1 | ongoing | 8.99      |
 | [Akaoni: Contract with a Vampire](#akaoni-contract-with-a-vampire)  | Hiroro                             | 1 | complete | 8.99      |
 | [Beast† Blood](#beast-blood)  | Sato Fumino                        | 1 | complete | 8.99      |
 | [Dawn of the Mapmaker](#dawn-of-the-mapmaker)  | Akira Nashiki                      | 1 | complete | 7.99      |
