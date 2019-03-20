@@ -30,7 +30,18 @@ subtitle: publisher
 
 ---
 
-![](../assets/crossinfworld/akaoni-contract-with-a-vampire.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/beast-blood-light-novel.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/dawn-of-the-mapmaker.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/emeth-island-of-golems.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/i-became-the-secretary-of-a-hero.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/little-princess-in-fairy-forest.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/mia-and-the-forbidden-medicine-report.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/my-favorite-song-the-silver-siren.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/obsessions-of-an-otome-gamer.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/the-champions-of-justice-and-the-supreme-ruler-of-evil.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/the-cursed-princess-and-the-lucky-knight.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/the-eccentric-master-and-the-fake-lover.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/tia-la-cherla.jpg){: height=150 style="float:left; padding:16px"}
+![](../assets/crossinfworld/akaoni-contract-with-a-vampire.jpg)
+_Akaoni: Contract with a Vampire_ | Hiroro | 1 | complete | 8.99
+![](../assets/crossinfworld/beast-blood-light-novel.jpg)
+_Beast† Blood_ | Sato Fumino | 1 | complete | 8.99
+![](../assets/crossinfworld/dawn-of-the-mapmaker.jpg)
+_Dawn of the Mapmaker_ | Akira Nashiki | 1 | complete | 7.99
+![](../assets/crossinfworld/emeth-island-of-golems.jpg)
+_emeth: Island of Golems_ | Souki Tsukishima & Tora Tsukishima | 1 | complete | 8.99
+![](../assets/crossinfworld/i-became-the-secretary-of-a-hero.jpg)
+_I Became the Secretary of a Hero!_ | Tsukasa Yamazaki | 1 | complete | 8.99
+
+![](../assets/crossinfworld/little-princess-in-fairy-forest.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/mia-and-the-forbidden-medicine-report.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/my-favorite-song-the-silver-siren.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/obsessions-of-an-otome-gamer.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/the-champions-of-justice-and-the-supreme-ruler-of-evil.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/the-cursed-princess-and-the-lucky-knight.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/the-eccentric-master-and-the-fake-lover.jpg){: height=150 style="float:left; padding:16px"} ![](../assets/crossinfworld/tia-la-cherla.jpg){: height=150 style="float:left; padding:16px"}
 
 ### Gleam
 #### Aya Shirosaki{::options auto_ids="false" /}
