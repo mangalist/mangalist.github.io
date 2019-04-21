@@ -22,29 +22,29 @@ description: manga and light novels in digital format
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-  Genre:
-    - Shoujo: "shoujo/"
-    - Shounen: "shounen/"
-    - Yaoi/BL: "yaoi/"
-    - Yuri: "yuri/"
-  Publisher:
-    - Cross Infinite World: "crossinfworld/"
-    - Denpa: "denpa/"
-    - Dark Horse: "darkhorse/"
-    - J-Novel Club: "jnovel/"
-    - Kodansha: "kodansha/"
-    - Media Do: "mediado/"
-    - One Peace: "onepeace/"
-    - Seven Seas: "sevenseas/"
-    - Sol Press: "solpress/"
-    - Viz: "viz/"
-    - Yen Press: "yenpress/"
-  Type:
-    - Manga: "manga/"
-    - Light Novel: "ranobe/"
-    - Artbook / Etc: "etc/"
-  FAQ: "faq"  
+#navbar-links:
+#  Genre:
+#    - Shoujo: "shoujo/"
+#    - Shounen: "shounen/"
+#    - Yaoi/BL: "yaoi/"
+#    - Yuri: "yuri/"
+#  Publisher:
+#    - Cross Infinite World: "crossinfworld/"
+#    - Denpa: "denpa/"
+#    - Dark Horse: "darkhorse/"
+#    - J-Novel Club: "jnovel/"
+#    - Kodansha: "kodansha/"
+#    - Media Do: "mediado/"
+#    - One Peace: "onepeace/"
+#    - Seven Seas: "sevenseas/"
+#    - Sol Press: "solpress/"
+#    - Viz: "viz/"
+#    - Yen Press: "yenpress/"
+#  Type:
+#    - Manga: "manga/"
+#    - Light Novel: "ranobe/"
+#    - Artbook / Etc: "etc/"
+#  FAQ: "faq"  
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
