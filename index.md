@@ -67,7 +67,7 @@ Are the books scanlations?
 : No. They are not scanlations or unauthorized fan translations. All manga and light novels are *official* English releases.
 
 Are they pirated?
-: No. They are acquired legally, as in bought for you using your money. If they're not on sale, I can't get them for you.
+: No. They are acquired legally, as in bought for you using your money. If they're not for sale or they're on subscription services like Renta! and NETCOMICS, I can't get them for you.
 
 Are they physical books?
 : No. The books are in digital format aka ebooks.
