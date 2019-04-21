@@ -12,20 +12,20 @@ use-site-title: false
 | _Accomplishments of the Duke's Daughter_ v.3 | Reia, Suki Umemiya | ₱115 |
 | _Asahi-sempai's Favorite_ v.2 | Iroha Machino | ₱115 |
 | _Attack on Titan: Before the Fall_ v.16 | Ryo Suzukaze, Satoshi Shiki | ₱115 |
-| <span style="color:blue">**_Banana Fish_ v.1-7 | Akimi Yoshida | ₱89**</span> |
+| <span style="color:blue">**_Banana Fish_ v.1-7**</span> | Akimi Yoshida | ₱89 |
 | _Captain Harlock: Dimensional Voyage_ v.8 | Leiji Matsumoto, Kouiti Shimaboshi | ₱115 |
 | _Creature!_ v.11-13 | Shingo Honda | ₱59 |
 | _Defying Kurosaki-kun_ v.8 | MAKINO | ₱115 |
 | _élDLIVE_ v.9 | Akira Amano | ₱89 |
 | _Elegant Yokai Apartment Life_ v.12 | Hinowa Kouzuki | ₱115 |
-| <span style="color:blue">**_Fruits Basket Collector's Edition_ (2-in-1) v.1-12 | Natsuki Takaya | ₱129**</span> |
+| <span style="color:blue">**_Fruits Basket Collector's Edition_ (2-in-1) v.1-12**</span> | Natsuki Takaya | ₱129 |
 | _Harem Days: The Seven-Starred Country_ v.5 | Momo Sumomo | ₱49 |
 | _How to Treat Magical Beasts_ v.3 | Kaziya | ₱115 |
 | _Kakafukaka_ v.6 | Takumi Ishida | ₱115 |
 | _Kenka Ramen_ v.10-17 | Shigeru Tsuchiyama | ₱59 |
 | _Mikami-sensei's Way of Love_ v.4 | Hiro Aikawa | ₱115 |
 | _My Boy in Blue_ v.8 | Maki Miyoshi | ₱115 |
-| <span style="color:blue">**_Saint Young Men_ v.1 | Hikaru Nakamura | ₱115**</span> |
+| <span style="color:blue">**_Saint Young Men_ v.1**</span> | Hikaru Nakamura | ₱115 |
 | _Shinobi Life_ v.7 | Shoko Konami | ₱59 |
 | _Shoku-King_ v.11-27 | Shigeru Tsuchiyama | ₱59 |
 | _Sorry for My Familiar_ v.4 | Tekka Yaguraba | ₱115 |
@@ -37,7 +37,7 @@ use-site-title: false
 | _Baccano!_ v.10 | Ryohgo Narita, Katsumi Enami | ₱69 |
 | _I've Been Killing Slimes for 300 Years and Maxed Out My Level_ v.4 | Kisetsu Morita, Benio | ₱59 |
 | _Konosuba: God's Blessing on This Wonderful World!_ v.8 | Natsume Akatsuki, Kurone Mishima | ₱59 |
-| <span style="color:blue">**_Penguin Highway_ | Tomihiko Morimi | ₱69**</span> |
+| <span style="color:blue">**_Penguin Highway_**</span> | Tomihiko Morimi | ₱69 |
 | _Re:ZERO -Starting Life in Another World- Ex_ v.3 | Tappei Nagatsuki, Shinichirou Otsuka | ₱59 |
 | _That Time I Got Reincarnated as a Slime_ v.5 | Fuse, Mitz Vah | ₱59 |
 | _The Devil Is a Part-Timer!_ v.13 | Satoshi Wagahara, 029 (Oniku) | ₱59 |
