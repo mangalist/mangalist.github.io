@@ -5,6 +5,7 @@ subtitle: WIP
 use-site-title: false
 ---
 ## 04/23 Manga and Light Novels
+
 | Title | Author | Price |
 |-|-|:-:|:-:|:-:|
 |---
