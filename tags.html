@@ -3,6 +3,17 @@ layout: page
 title: 'Tag Index'
 ---
 
+<a href="#"
+  class="snipcart-add-item" 
+  data-item-id="1" 
+  data-item-name="Don't Be Cruel" 
+  data-item-price="95" 
+  data-item-url="/" 
+  data-item-custom1-name="volume"
+  data-item-custom1-options="Volume 1 (2-in-1)|Volume 2 (2-in-1)|Volume 5[-10]|Volume 6[-10]|Volume 7[-10]|Akira Takanashi's Story[-10]|plus+[-10]">
+    Don't Be Cruel
+</a>
+
 {%- capture site_tags -%}
     {%- for tag in site.tags -%}
         {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
