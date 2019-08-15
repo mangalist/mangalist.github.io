@@ -23,7 +23,7 @@ use-site-title: false
 
 ### Promos
 - Buy 10, get 1 free
-- Buy 20, get 3 free
+- Buy 25, get 3 free
 
 ### FAQ
 Are they physical books?
